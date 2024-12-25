@@ -42,7 +42,7 @@ App I'd like to build:
 
 ## Notes
 
-N/A
+Had difficulty connecting my project to github, but was able to figure it out with the tutorial videos.
 
 ## License
 
